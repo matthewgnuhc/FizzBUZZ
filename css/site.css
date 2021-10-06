@@ -55,9 +55,15 @@ footer .social>a:hover {
     color: var(--secondary-color)
 }
 
-.sticky-footer{
+.sticky-footer {
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
+}
+
+
+.Fizz {
+    color: #3686e9;
+    font-weight: 300;
 }
